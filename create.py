@@ -46,7 +46,7 @@ messagescript7 = """<h1></font>
 
 messagescript8 = imagelink
 
-messagescript9 = """ width=450px height=340px>
+messagescript9 = """ width=1920px height=2560px>
 <body onload="init()"></body>
 <body>
 <div id="bulle"></div>"""
